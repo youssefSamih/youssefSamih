@@ -3,7 +3,6 @@
 I am **YOUSSEF SAMIH**, I am a tech enthusiast & javascript lover also machine learning fane. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-YOUSSEF%20Samih-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/youssef-samih/)](https://www.linkedin.com/in/youssef-samih/)
-<--![![Gmail Badge](https://img.shields.io/badge/-youssef.samih97@gmail.com?style=flat-square&logo=Gmail&logoColor=white&link=mailto:youssef.samih97@gmail.com)](mailto:youssef.samih97@gmail.com)-->
 
 ## ⚡ Technologies
 
